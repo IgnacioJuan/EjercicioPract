@@ -23,4 +23,5 @@ public class Competencia {
     @Column(name = "descripcion")
     private String descripcion;
 
+    
 }
